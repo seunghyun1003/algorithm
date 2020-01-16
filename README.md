@@ -12,5 +12,6 @@
 | 문제 | 힌트 | 풀이 |  
 | ------------- | ------------- |:-------------:|
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | 스택 | [py](LV2/탑.py) |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | 스택/큐 | [py](LV2/다리를_지나는_트럭.py ) |
 
 
