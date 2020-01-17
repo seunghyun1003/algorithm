@@ -1,13 +1,9 @@
 def solution(phone_book):
     answer = True
-
-    pblen = sorted(phone_book, key=len)
-    
-    
-    for i in len(pblen):
-        for j in len(pblen):
-            if pblen[i].startswith(pblen[j]):
-                answer = false
-            else: answer = true
-    
+    sorted_phone_book = sorted(phone_book)
+    for a in range(len(phone_book)-1):
+        if sorted_phone_book[a] in sorted_phone_book[a+1] :
+            return False
+        else:
+            return True
     return answer
