@@ -15,4 +15,4 @@
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | 스택/큐 | [py](LV2/다리를_지나는_트럭.py ) |
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 정렬 | [py](LV2/가장_큰_수.py ) |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | [py](LV2/전화번호_목록.py ) |
-
+| [](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | [py](LV2/전화번호_목록.py ) |
