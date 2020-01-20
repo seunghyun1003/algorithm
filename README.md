@@ -16,3 +16,4 @@
 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 정렬 | [py](LV2/가장_큰_수.py ) |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | [py](LV2/전화번호_목록.py ) |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 큐 | [py](LV2/프린터.py ) |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해쉬 | [py](LV2/위장.py ) |
