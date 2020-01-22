@@ -7,6 +7,7 @@
 | ------------- | ------------- |:-------------:|
 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) |  | [py](LV1/K번째수.py) |
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |  | [py](LV1/가운데_글자_가져오기.py) |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |  | [py](LV1/완주하지_못한_선수.py) |
 
 ## Level 2
 | 문제 | 힌트 | 풀이 |  
