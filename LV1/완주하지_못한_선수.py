@@ -1,10 +1,17 @@
-def solution(s,c):
+from collections import Counter
 
-    s.sort()
-    c.sort()
-
-    for par, com in zip(s, c) :
-        if par != com :
-            return par   
-
-    return s[-1]       
+def solution(participant, completion):
+    answer_list = []
+    
+    participant_count = Counter(participant)
+    completion_count = Counter(completion)
+    result = participant_count - completion_count
+    
+    for name in result:
+        if result.values() != 0:
+            answer_list.append(name)
+            
+    answer = ",".join(answer_list)
+    return answer
+            
+    
