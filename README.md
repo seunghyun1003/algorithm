@@ -18,3 +18,4 @@
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해쉬 | [py](LV2/전화번호_목록.py ) |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 큐 | [py](LV2/프린터.py ) |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해쉬 | [py](LV2/위장.py ) |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | 완전탐색 | [py](LV2/위장.py ) |
