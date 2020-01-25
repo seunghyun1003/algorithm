@@ -19,3 +19,4 @@
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 큐 | [py](LV2/프린터.py ) |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해쉬 | [py](LV2/위장.py ) |
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | 완전탐색 | [py](LV2/위장.py ) |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | [py](LV2/위장.py ) |
