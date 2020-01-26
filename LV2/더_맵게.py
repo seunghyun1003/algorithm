@@ -1,4 +1,4 @@
-//시도1. 실패 - 런타임 오류
+//실패 - 런타임 오류
 def scoville_min(scoville_list):
     MIN = min(scoville_list)
     return scoville_list.pop(MIN)
@@ -14,7 +14,7 @@ def solution(scoville, K):
         else:
             return answer
             
-//리스트의 최솟값을 이용하는 문제이므로 heapq을 이용하였다.
+//성공 - 리스트의 최솟값을 이용하는 문제이므로 heapq을 이용하였다.
 import heapq
 
 def solution(scoville,K):
