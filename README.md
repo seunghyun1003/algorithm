@@ -21,3 +21,4 @@
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | 완전탐색 | [py](LV2/위장.py ) |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | [py](LV2/위장.py ) |
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](LV2/더_맵게.py ) |
+| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | 힙 | [py](LV2/라면공장.py ) |
