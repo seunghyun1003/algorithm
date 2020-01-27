@@ -11,7 +11,7 @@ def solution(stock, dates, supplies, k):
     dates.append(k)
     
     for i, supply_dates in enumerate(dates):
-        heappush(heap, -1*supplies[i])  #supplies의 최대힙
+        heappush(heap, -1*supplies[i])  #supplies의 최대값 출력. heapq은 최소힙만을 지원하므로 supplies을 음수로 만들어 최대값을 출력한다.
         while (stock < supply_dates):
             max_supplies = -1*heappop(heap)
             stock += max_supplies
