@@ -22,3 +22,4 @@
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | [py](LV2/위장.py ) |
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](LV2/더_맵게.py ) |
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | 힙 | [py](LV2/라면공장.py ) |
+| [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 깊이/너비 우선 탐색(DFS/BFS) | [py](LV2/타겟넘버.py ) |
