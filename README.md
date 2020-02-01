@@ -9,6 +9,7 @@
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |  | [py](LV1/가운데_글자_가져오기.py) |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | 해쉬 | [py](LV1/완주하지_못한_선수.py) |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/12903) | 완전탐색 | [py](LV1/모의고사.py) |
+| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 탐욕법 | [py](LV1/체육복.py) |
 
 ## Level 2
 | 문제 | 힌트 | 풀이 |  
