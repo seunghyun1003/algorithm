@@ -10,7 +10,7 @@
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | 해쉬 | [py](LV1/완주하지_못한_선수.py) |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/12903) | 완전탐색 | [py](LV1/모의고사.py) |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 탐욕법 | [py](LV1/체육복.py) |
-| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  | [py](LV1/문자열_압축.py) |
+
 
 
 ## Level 2
@@ -27,3 +27,4 @@
 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | [py](LV2/더_맵게.py ) |
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | 힙 | [py](LV2/라면공장.py ) |
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택/큐 | [py](LV2/주식가격.py ) |
+| [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 탐욕법 | [py](LV2/큰_수_만들기.py) |
