@@ -10,6 +10,8 @@
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | 해쉬 | [py](LV1/완주하지_못한_선수.py) |
 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/12903) | 완전탐색 | [py](LV1/모의고사.py) |
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 탐욕법 | [py](LV1/체육복.py) |
+| [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  | [py](LV1/문자열_압축.py) |
+
 
 ## Level 2
 | 문제 | 힌트 | 풀이 |  
